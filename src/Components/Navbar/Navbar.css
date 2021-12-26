@@ -1,0 +1,15 @@
+i.icon-pink {
+    color: #f06292;
+    font-size: 3rem !important;
+}
+
+nav ul a {
+ font-size: 1rem !important;
+ color:#f06292;   
+}
+
+nav ul a:hover {
+    background-color: #f06292;
+    color: white!important
+}
+
